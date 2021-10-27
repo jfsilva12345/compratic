@@ -1,0 +1,29 @@
+
+thead {
+  background-color: #D0A2FE;
+  text-align: center;
+}
+td {
+  text-align: center;
+}
+
+th:hover {
+  background-color: #221f2580;
+  cursor: default;
+}
+
+.caja1{
+  padding-left: 7%;
+}
+.caja2{
+  padding-top: 4%; 
+}
+.sample.one input {
+  border-radius: 15px;
+  right: 38%;
+  transition: all .3s ease-in-out;
+  width: 90%;
+  border-color: #D0A2FE;
+  padding: 8px;
+  margin-top: 10px;
+}

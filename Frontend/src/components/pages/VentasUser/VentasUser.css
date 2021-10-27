@@ -1,0 +1,52 @@
+
+  .user tbody tr:nth-child(odd) {
+    background-color: #aed7e3;
+  }
+
+  .user thead {
+    background-color: #221f2580;
+    text-align: center;
+  }
+  
+  .user tbody tr:nth-child(even) {
+    background-color: #7dc1d6;
+  }
+  .user td {
+    text-align: center;
+  }
+  .user th:hover {
+    background-color: #9bc8ff;
+    cursor: default;
+  }
+  .horizontal{
+    padding-top: 3%;
+    width:23.33%;
+    height:5%;
+    float:left;
+  }
+  .caja1{
+    padding-left: 7%;
+  }
+  .caja2{
+    padding-top: 4%; 
+  }
+
+  .container {
+    overflow-x: auto;
+    height: auto;
+    padding-left: 23%;
+    position: relative;
+    text-align: start;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }  
+.sample.one.textoU input {
+    border-radius: 15px;
+    right: 38%;
+    transition: all .3s ease-in-out;
+    width: 90%;
+    border-color: #04706b88;
+    padding: 8px;
+    margin-top: 10px;
+}

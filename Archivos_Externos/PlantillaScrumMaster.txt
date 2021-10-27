@@ -1,0 +1,34 @@
+// Nombres y Apellidos
+    James Silva Bermúdez;Jair Alexander Molano;Mauricio Salazar;Hector Mejia Bueno;Diego Alejandro Tobon henao
+
+//numero de documento
+1061818950;76323116;1072189752;84089096;1002542791
+
+//correo electronico
+jfsilva@unicauca.edu.co;jmolanito@gmail.com;msalazarpa@unadvirtual.edu.co;hjosemejia@uniguajira.edu.co;datobonn2000@gmail.com 
+
+//Nombre de equipo
+CompraTIC
+
+_____
+
+https://www.figma.com/file/0RWIxb9oypCKam1X37ehJM/Interfaz-Base?node-id=14%3A35_____________________________________________________________________________________________________________________________
+
+Asignacion Sprint 1
+
+*   Scrum Master = James
+*   Administrador de BD = Jair
+*   Analista = Mauricio
+*   Desarrollador = Laura
+*   Product Owner =  Hector
+__________________________________________________________________________________________________________________________________
+
+Asignacion Sprint 2
+
+Desarrollador: James
+Analista: Jair
+Product Owner: Hector
+Admin BD: Diego
+Scrum master: Mauricio
+__________________________________________________________________________________________________________________________________
+

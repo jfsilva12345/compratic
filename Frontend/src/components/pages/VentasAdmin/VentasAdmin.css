@@ -1,0 +1,28 @@
+.admin tbody tr:nth-child(odd) {
+    background-color: #b577f3ce;
+  }
+
+  .admin thead {
+    background-color: #a95ce7;
+    text-align: center;
+  }
+  
+  .admin tbody tr:nth-child(even) {
+    background-color: #aa5cf788;
+  }
+  .admin td {
+    text-align: center;
+  }
+  .admin th:hover {
+    background-color: #9bc8ff;
+    cursor: default;
+  }
+  .sample.one.textoA input {
+    border-radius: 15px;
+    right: 38%;
+    transition: all .3s ease-in-out;
+    width: 90%;
+    border-color: #D0A2FE;
+    padding: 8px;
+    margin-top: 10px;
+}
